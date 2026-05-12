@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1,0,0,0),
+    prodvers=(1,0,0,0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x4,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0,0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'040904b0',
+          [StringStruct(u'CompanyName', u'[蔡东航]'),
+           StringStruct(u'FileDescription', u'布布一二桌宠'),
+           StringStruct(u'FileVersion', u'1.0.0.0'),
+           StringStruct(u'InternalName', u'布布一二特效大王'),
+           StringStruct(u'LegalCopyright', u'© 2026 [蔡东航]. All rights reserved.'),
+           StringStruct(u'OriginalFilename', u'bubuyier.exe'),
+           StringStruct(u'ProductName', u'布布一二桌宠'),
+           StringStruct(u'ProductVersion', u'1.0.0.0')])
+      ]),
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
